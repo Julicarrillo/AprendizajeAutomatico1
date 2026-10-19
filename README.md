@@ -52,25 +52,15 @@ Ejercicio 4 - Regresión lineal múltiple
 
 Se incorporó una tercera variable independiente, horas_de_celular, para analizar su relación con las calificaciones junto con las horas de estudio y de sueño.
 
-Resultados obtenidos:
+**Resultados obtenidos:**
 
-Variable
+| Variable | Coeficiente aproximado |
+|---|---:|
+| Horas de estudio | 5.80 |
+| Horas de sueño | 2.87 |
+| Horas de celular | -4.01 |
 
-Coeficiente aproximado
-
-Horas de estudio
-
-5.80
-
-Horas de sueño
-
-2.87
-
-Horas de celular
-
--4.01
-
-El modelo obtuvo un R² de 0.85, explicando aproximadamente el 85 % de la variabilidad de las calificaciones en los datos de prueba.
+El modelo obtuvo un **R² de 0.85**, explicando aproximadamente el 85 % de la variabilidad de las calificaciones en los datos de prueba.
 
 💡 Conclusiones
 
