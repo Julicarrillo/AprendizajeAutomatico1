@@ -330,8 +330,3 @@ Julia Belén Carrillo
 
 Estudiante de la Tecnicatura en Inteligencia Artificial y Ciencia de Datos.
 
-AA1_TP1_CARRILLO_JULIA.ipynb: notebook correspondiente al Trabajo Práctico N.º 1 sobre regresión lineal.
-
-👩‍💻 Autora
-
-Julia Belén Carrillo
